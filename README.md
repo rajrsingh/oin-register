@@ -32,7 +32,7 @@ All imagery accessed through OIN is in RGB GeoTiff format, with a corresponding 
 
 ### How to contribute to OIN
 
-1. Create an object store. This can be Amazon S3, Microsoft Azure, or Google Cloud Storage.
+1. Create an object store. This can be Amazon S3, IBM Object Storage for Bluemix, Microsoft Azure, or Google Cloud Storage.
   - Follow storage requirements about your storage permissions and adding imagery. 
   - Adhere to guidelines on `.tif` files and matching metadata files. 
 
